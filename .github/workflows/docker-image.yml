@@ -12,9 +12,9 @@ jobs:
     ## Configurations
     ##############################################################
     env:
-      builder_ns: ghcr.io/open-rmf/rmf_deployment_template
+      builder_ns: ghcr.io/lltfly/rmf_deployment_template
       base_registry: docker.io
-      domain_url: rmf-deployment-template.open-rmf.org
+      domain_url: rmf-deployment-template.lltfly.org
       ros_distro: humble
       tag: latest
     ##############################################################
